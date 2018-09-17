@@ -1,4 +1,4 @@
-﻿# Projekto Dokumentacijos Repozitorija
+﻿# Gear Dokumentacija
  
  Saugomi failai susiję su dokumentacija t.y. :
  * Ataskaita Word faile
